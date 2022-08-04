@@ -40,7 +40,3 @@ Check the API docs at [http://localhost:8090/swagger-ui.html#/](http://localhost
 As of now, I have used a pseudo mail box, `mailtrap.io` for account validation after signup. Credentials for that need to be changed in the `application.properties` file.
 
 ***
-
-# For IIITBSoC
-Queries welcome at [akshath.kaushal@iiitb.ac.in](mailto:akshath.kaushal@iiitb.ac.in)    
-Check the front end repository [here](https://github.com/akshathkaushal/IIITB-CMS-Frontend)
